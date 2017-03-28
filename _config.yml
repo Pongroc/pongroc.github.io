@@ -1,9 +1,9 @@
 # Site settings
-title: pongroc's Blog
-SEOTitle: xx的博客 | Phoenixdo Blog
+title: Pongroc's Blog
+SEOTitle: 陈鹏的博客 | Pongroc's Blog
 header-img: img/zunda_backgrond.jpg
 email: zunda001@163.com
-description: "iOS Android"
+description: "deeplearning"
 keyword: ""
 url: "https://pongroc.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
